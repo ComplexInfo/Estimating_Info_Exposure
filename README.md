@@ -3,7 +3,7 @@
 This repository contains the codes for implementing the algorithm proposed in the paper titled "Estimating Exposure to Information on Social Networks"
 
 # Directions
-To reproduce the numerical results of the paper, run the Jupyter notebook titled "Code_Exposure" according to the following steps.
+To reproduce the results of the paper, run the Jupyter notebook titled "Code_Exposure".
 
-Outputs: The figure with the results will be stored in PDF format in the same folder
+Outputs: The numerical and empirical results will be stored in the folders "Numerical_Results" and "Empirical_Results" and the final figures are stored in folder named "Figures".
 
